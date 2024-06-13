@@ -2,7 +2,7 @@
 
 Chat with your own data - LLM+RAG workshop
 
-copy of [this repo](https://github.com/alexeygrigorev/llm-rag-workshop) with `bash` config
+copy of [this repo](https://github.com/alexeygrigorev/llm-rag-workshop) with `zshrc` config
 
 You need:
 
